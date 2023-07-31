@@ -1,8 +1,9 @@
-It is a free HTML CSS template by TemplatesJungle.com
+It is a free HTML CSS template by https://templatesjungle.com/
 You can use this template as a starter template and start building as you require.
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
 
+Preview URL: https://demo.templatesjungle.com/classi/
 
 FREE FOR BOTH PERSONAL AND COMMERCIAL USE
 
@@ -52,12 +53,14 @@ Google fonts
 https://fonts.google.com/
 
 Icons
-https://icomoon.io/
+https://icon-sets.iconify.design/
+
+Bootstrap Framework
+https://getbootstrap.com/
 
 JQuery Plugins
 
 Swiper Slider - https://swiperjs.com/
-Slick Slider - https://kenwheeler.github.io/slick/
 Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
 Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
 
